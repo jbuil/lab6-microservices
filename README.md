@@ -38,3 +38,4 @@ by a PR so other fellow can try it.
 | [HectorRute98](https://github.com/HectorRute98/lab6-microservices/tree/work) | 736259 | [REPORT.md](https://github.com/HectorRute98/lab6-microservices/blob/work/docs/REPORT.md) |
 | [motinsa](https://github.com/motinsa/lab6-microservices/tree/work) | 797610 | [REPORT.md](https://github.com/motinsa/lab6-microservices/blob/work/docs/REPORT.md) |
 | [newfeels](https://github.com/newfeels/lab6-microservices/tree/work) | 779898 | [REPORT.md](https://github.com/newfeels/lab6-microservices/blob/work/docs/REPORT.md) |
+| [paul-huszak](https://github.com/paul-huszak/lab6-microservices/tree/work) | 759934 | [REPORT.md](https://github.com/paul-huszak/lab6-microservices/blob/work/docs/REPORT.md) |
